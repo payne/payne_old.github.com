@@ -18,4 +18,11 @@ ads: false
 This turns off the crazy ads and comments that come as default.
 
 ### Markdown
-[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-html)
+[Markdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-html)
+
+### Next steps
+ 1. Make a printer friendly version of each page
+   * X5 Should include the permanent URL
+ 1. Learn markdown
+ 1. Figure out what to do with images
+
