@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: MattPayne.org
 tagline: Just getting started...
 ---
 {% include JB/setup %}
