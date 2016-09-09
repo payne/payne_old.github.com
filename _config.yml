@@ -11,7 +11,7 @@ pygments: true
 #
 title : MattPayne.org
 tagline: Simple notes and links
-markdown: rdiscount
+#markdown: rdiscount
 author :
   name : Matt Payne
   email : Payne@MattPayne.org
